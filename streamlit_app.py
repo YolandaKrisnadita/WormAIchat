@@ -1,5 +1,5 @@
 import streamlit as st
-#from hugchat import hugchat
+from hugchat import hugchat
 
 st.title('🎈 App Name')
 
